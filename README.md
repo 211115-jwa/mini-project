@@ -1,4 +1,5 @@
 # mini-project
+## due (roughly) on thursday, dec 2 by end of day
 technical requirements:
 - back end (java)
     - maven
